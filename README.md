@@ -77,6 +77,11 @@ pacing.add {event:'search_impressionx'}, ->
      event: 'search_impressionx' } }
 ```
 
+### determine breakage by measuring relative throughput
+<p>
+  <img src="https://taky.s3.amazonaws.com/31pl20jfj94y.png" width="707">
+</p>
+
 ---
 
 ### License: MIT

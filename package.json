@@ -1,7 +1,7 @@
 {
   "name": "pacing-events-redis",
   "description": "performant pacing event tracker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./build/module.js",
   "author": "taky@taky.com",
   "repository": "tosadvisor/pacing-events-redis",
